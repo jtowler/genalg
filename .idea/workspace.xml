@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6affba58-7f3c-4e09-ad06-1ffe91fdbf23" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/genalg.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buontempo/Diffuse/Diffuse.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buontempo/Diffuse/Diffuse.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buontempo/Diffuse/Diffuse.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buontempo/Diffuse/Diffuse.xcodeproj/project.xcworkspace/xcuserdata/jack.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buontempo/Diffuse/Diffuse.xcodeproj/xcuserdata/jack.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buontempo/Diffuse/Diffuse/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buontempo/escape/data_rand" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buontempo/escape/data_square" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1biYOe9DDc2VUkB8UZCNQn3aEZW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="add_unversioned_files" value="true" />
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for test_ga.TestRandomTries">
+    <configuration name="decision_tree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="genalg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/buontempo/decide" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/buontempo/decide/decision_tree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dragon" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="genalg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/buontempo/escape" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/buontempo/escape/dragon.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="escape" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="genalg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/buontempo/escape" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/buontempo/escape/escape.py" />
+      <option name="PARAMETERS" value="-f squares -n 40" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ga" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="genalg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/buontempo/boom" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/buontempo/boom/ga.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_ga.TestRandomTries" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="genalg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/buontempo/boom" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_ga.TestRandomTries&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.escape" />
+      <item itemvalue="Python.dragon" />
+      <item itemvalue="Python.decision_tree" />
+      <item itemvalue="Python.ga" />
+      <item itemvalue="Python tests.Unittests for test_ga.TestRandomTries" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for test_ga.TestRandomTries" />
+        <item itemvalue="Python.ga" />
+        <item itemvalue="Python.dragon" />
+        <item itemvalue="Python.decision_tree" />
+        <item itemvalue="Python.escape" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6affba58-7f3c-4e09-ad06-1ffe91fdbf23" name="Default Changelist" comment="" />
+      <created>1589116350992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589116350992</updated>
+    </task>
+    <task id="LOCAL-00001" summary="finished chapter 2">
+      <created>1589126564332</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589126564332</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updated gitignore">
+      <created>1589126677217</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589126677217</updated>
+    </task>
+    <task id="LOCAL-00003" summary="chapter 3">
+      <created>1589228738636</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589228738636</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finished chapter 2" />
+    <MESSAGE value="updated gitignore" />
+    <MESSAGE value="chapter 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2014" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589119179751">
+      <screen x="1280" y="-82" width="1920" height="1080" />
+    </state>
+    <state x="2014" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800/1280.-82.1920.1080@1280.-82.1920.1080" timestamp="1589119179751" />
+    <state x="1889" y="4" key="CommitChangelistDialog2" timestamp="1589228738456">
+      <screen x="1280" y="-82" width="1920" height="1080" />
+    </state>
+    <state x="1889" y="4" key="CommitChangelistDialog2/0.0.1280.800/1280.-82.1920.1080@1280.-82.1920.1080" timestamp="1589228738456" />
+    <state x="1889" y="4" key="CommitChangelistDialog2/0.23.1280.777/1280.-82.1920.1080@1280.-82.1920.1080" timestamp="1589126404775" />
+    <state width="1899" height="304" key="GridCell.Tab.0.bottom" timestamp="1589228348007">
+      <screen x="1280" y="-82" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="304" key="GridCell.Tab.0.bottom/0.0.1280.800/1280.-82.1920.1080@1280.-82.1920.1080" timestamp="1589228348007" />
+    <state width="1899" height="304" key="GridCell.Tab.0.bottom/0.23.1280.777/1280.-82.1920.1080@1280.-82.1920.1080" timestamp="1589126404724" />
+    <state width="1899" height="304" key="GridCell.Tab.0.center" timestamp="1589228348005">
+      <screen x="1280" y="-82" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="304" key="GridCell.Tab.0.center/0.0.1280.800/1280.-82.1920.1080@1280.-82.1920.1080" timestamp="1589228348005" />
+    <state width="1899" height="304" key="GridCell.Tab.0.center/0.23.1280.777/1280.-82.1920.1080@1280.-82.1920.1080" timestamp="1589126404722" />
+    <state width="1899" height="304" key="GridCell.Tab.0.left" timestamp="1589228348004">
+      <screen x="1280" y="-82" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="304" key="GridCell.Tab.0.left/0.0.1280.800/1280.-82.1920.1080@1280.-82.1920.1080" timestamp="1589228348004" />
+    <state width="1899" height="304" key="GridCell.Tab.0.left/0.23.1280.777/1280.-82.1920.1080@1280.-82.1920.1080" timestamp="1589126404721" />
+    <state width="1899" height="304" key="GridCell.Tab.0.right" timestamp="1589228348006">
+      <screen x="1280" y="-82" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="304" key="GridCell.Tab.0.right/0.0.1280.800/1280.-82.1920.1080@1280.-82.1920.1080" timestamp="1589228348006" />
+    <state width="1899" height="304" key="GridCell.Tab.0.right/0.23.1280.777/1280.-82.1920.1080@1280.-82.1920.1080" timestamp="1589126404723" />
+    <state width="1899" height="375" key="GridCell.Tab.1.bottom" timestamp="1589227158969">
+      <screen x="1280" y="-82" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="375" key="GridCell.Tab.1.bottom/0.0.1280.800/1280.-82.1920.1080@1280.-82.1920.1080" timestamp="1589227158969" />
+    <state width="1899" height="375" key="GridCell.Tab.1.center" timestamp="1589227158966">
+      <screen x="1280" y="-82" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="375" key="GridCell.Tab.1.center/0.0.1280.800/1280.-82.1920.1080@1280.-82.1920.1080" timestamp="1589227158966" />
+    <state width="1899" height="375" key="GridCell.Tab.1.left" timestamp="1589227158962">
+      <screen x="1280" y="-82" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="375" key="GridCell.Tab.1.left/0.0.1280.800/1280.-82.1920.1080@1280.-82.1920.1080" timestamp="1589227158962" />
+    <state width="1899" height="375" key="GridCell.Tab.1.right" timestamp="1589227158967">
+      <screen x="1280" y="-82" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="375" key="GridCell.Tab.1.right/0.0.1280.800/1280.-82.1920.1080@1280.-82.1920.1080" timestamp="1589227158967" />
+    <state x="1840" y="198" key="Vcs.Push.Dialog.v2" timestamp="1589228741300">
+      <screen x="1280" y="-82" width="1920" height="1080" />
+    </state>
+    <state x="1840" y="198" key="Vcs.Push.Dialog.v2/0.0.1280.800/1280.-82.1920.1080@1280.-82.1920.1080" timestamp="1589228741300" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/buontempo/escape/escape.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
